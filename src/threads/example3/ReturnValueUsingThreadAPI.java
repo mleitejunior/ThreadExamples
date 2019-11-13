@@ -12,7 +12,7 @@ public class ReturnValueUsingThreadAPI {
 		MyTask task1 = new MyTask(200l);
 		Thread t1 = new Thread(task1);
 		t1.start();
-		
+                
 		MyTask task2 = new MyTask(200l);
 		Thread t2 = new Thread(task2);
 		t2.start();
@@ -20,8 +20,8 @@ public class ReturnValueUsingThreadAPI {
 		// if task1 is still executing, then it puts the caller thread [main] to wait
 		// when it finishes, then notify() is called to wake up the caller thread
 		// same for task 2
-		System.out.println("Sum: " + task1.getSum());
-		System.out.println("Sum: " + task2.getSum());
+		System.out.println("Sum t1: " + task1.getSum());
+		System.out.println("Sum t2: " + task2.getSum());
 	}
 }
 
