@@ -1,4 +1,4 @@
-# Java Threads code samples
+# Simple Java Threads Code Samples
 
 Simple java files with Threads implementation examples.
 
@@ -15,11 +15,11 @@ git clone https://github.com/mleitejunior/ThreadExamples
 You can read the files here in github. If you want to run them, you need:
 
 - Java installed on your system. You can get the java here:
-* [JAVA SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+[JAVA SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 - You can also use IDE like Eclipse or NetBeans to run the java samples:
-* [NETBEANS](https://netbeans.org/downloads/8.0.1/?pagelang=en_US)
-* [ECLIPSE](https://www.eclipse.org/downloads/)
+[NETBEANS](https://netbeans.org/downloads/8.0.1/?pagelang=en_US)
+[ECLIPSE](https://www.eclipse.org/downloads/)
 
 Open it as project in your IDE, select an example and run it. Good luck and enjoy your studies!
 
