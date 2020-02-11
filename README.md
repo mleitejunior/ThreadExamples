@@ -18,8 +18,8 @@ You can read the files here in github. If you want to run them, you need:
 * [JAVA SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 - You can also use IDE like Eclipse or NetBeans to run the java samples:
-* [JAVA SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
-* [JAVA SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [NETBEANS](https://netbeans.org/downloads/8.0.1/?pagelang=en_US)
+* [ECLIPSE](https://www.eclipse.org/downloads/)
 
 Open it as project in your IDE, select an example and run it. Good luck and enjoy your studies!
 
